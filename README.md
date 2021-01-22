@@ -12,6 +12,8 @@
   </a>
 </p>
 
+---
+
 #### I'm Cynthia, and I want to be part of your team!
 
 - I have background and experience in the arts, health and life sciences, and education
@@ -26,6 +28,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caersun&show_icons=true&theme=dark" />
 </p>
+
+---
 
 #### I am currently working on...
 
