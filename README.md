@@ -75,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
         &nbsp;
 
-   </p
+   </p>
 
 ---
 
