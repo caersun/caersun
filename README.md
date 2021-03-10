@@ -14,7 +14,7 @@
 - I have background and experience in the arts, health sciences, and education
   - Biology and English B.A.'s from the University of North Texas
   - Full-Stack Web Development Certificate from the University of Texas
-- **Check out my portfolio:** [cgarciaport.herokuapp.com](https://cgarciaport.herokuapp.com)
+- **Check out my portfolio:** [cynthiagarcia.work](https://cynthiagarcia.work)
 
 ---
 
