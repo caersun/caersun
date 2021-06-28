@@ -9,11 +9,8 @@
 
 ---
 
-#### I'm Cynthia, and I want to be part of your team!
+#### I'm Cynthia, and I code.
 
-- I have background and experience in the arts, health sciences, and education
-  - Biology and English B.A.'s from the University of North Texas
-  - Full-Stack Web Development Certificate from the University of Texas
 - **Check out my portfolio:** [cynthiagarcia.work](https://cynthiagarcia.work)
 
 ---
