@@ -13,13 +13,6 @@
 
 - **Check out my portfolio:** [cynthiagarcia.work](https://cynthiagarcia.work)
 
----
-
-#### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caersun&show_icons=true&theme=dark" />
-</p>
 
 ---
 
